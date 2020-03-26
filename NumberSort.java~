@@ -1,0 +1,9 @@
+import java.util.Random;
+
+public class NumberSort {
+  public static void main(String args[]) {
+    int[] numList = new int[100];
+    
+    
+  }
+}

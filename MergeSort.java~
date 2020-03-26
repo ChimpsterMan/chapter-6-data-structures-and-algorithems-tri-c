@@ -1,0 +1,18 @@
+public class MergeSort {
+  public MergeSort(){
+    
+  }
+  
+  public static int[] mergeSort(int[] list){
+    if (list.length <= 1){
+      return list;
+    }
+    
+    int[] left = new int[Math.floor(list.length/2)];
+    int[] right = new int[Math.ceil(list.length/2)];
+    
+    for (int num: list){
+      
+    }
+  }
+}
